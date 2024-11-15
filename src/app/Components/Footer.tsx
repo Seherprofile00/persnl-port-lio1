@@ -13,12 +13,8 @@ import { FaFacebook ,FaInstagram,FaLinkedin,FaGithub} from "react-icons/fa";
 
 export default function Footer() {
     return (<>
-  
-  
   <div className="Footer">
     <h1>Contact</h1>
-
-
     <p>I'm currently looking to join a cross-functional team that values improving people's lives<br></br>
 through accessible design. or have a project in mind? Let's connect.
 
@@ -31,12 +27,6 @@ through accessible design. or have a project in mind? Let's connect.
   <FaFacebook /><FaInstagram/><FaLinkedin/><FaGithub/>
 
   </div>
-   
-   
-   
-   
-   
-  
    </>
     );
   }

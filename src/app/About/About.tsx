@@ -11,14 +11,7 @@ export default function About() {
 
    <div className="About03">
     <div className="About1"><h2 >I'm a Software Engineer. </h2>
-    
     <div className="About-content"><p>Currently, I'm a student at  <span className="About-instit"> GIAIC</span> ,</p>
-
-
-
-
-
-
 
     </div >
     <div className="About-para">
