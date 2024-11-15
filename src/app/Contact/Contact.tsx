@@ -19,7 +19,7 @@ export default function Contact() {
   
    <div className="Contact-main">
     <h2>
-   I&apos;m currently looking to join a <span>cross-functional team</span></h2>
+   I&rsquo;m currently looking to join a <span>cross-functional team</span></h2>
 
    <p>that values people lives through accesible design</p>
 <div className="Contact-icons">

@@ -576,6 +576,7 @@ color: aliceblue;
     color: #cf7e7e;
     background-color: #0f0529;
     height: 26%;
+    width: 160%;
   }
   .navbar ul{
     font-size: 10px;
@@ -722,6 +723,7 @@ position: absolute;
   align-items: center;
   
   background-color: #a593b9;
+  width: 160%;
 
 
 }
@@ -731,7 +733,7 @@ position: absolute;
   background: none;
   margin-top: 90px;
   left: 16px;position: absolute;
-  width: 100%;
+  width: 160%;
 
   text-decoration: underline;
 }
@@ -749,7 +751,7 @@ position: absolute;
   margin-top: 122%;
   left: 6px;
   position: absolute;
-  width: 19%;
+  width: 160%;
   height: 4.5%;
  
   color: aliceblue;
@@ -882,7 +884,7 @@ font-size: 30px;
   display: absolute;
   gap: 5%;
  
-  margin-left: -45%;
+  margin-left: 55%;
   position: absolute;
   margin-top: 40%;
 
@@ -897,7 +899,7 @@ size: 2%;
 
 .projects-card-3{
 
-  margin-left: -45%;
+  margin-left: 55%;
   position: absolute;
   margin-top: 220%;
  
@@ -913,7 +915,7 @@ size: 2%;
 
 .projects-card-2{
 
-  margin-left: -10%;
+  margin-left: 46%;
   margin-top: 411%;
   position: absolute;
  
@@ -925,7 +927,7 @@ size: 2%;
 
 .projects-card-4{
 
-  margin-left: -40%;
+  margin-left: 45%;
   margin-top: 610%;
 
 

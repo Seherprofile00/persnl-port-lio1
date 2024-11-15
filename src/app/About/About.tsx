@@ -10,8 +10,8 @@ export default function About() {
   
 
    <div className="About03">
-    <div className="About1"><h2 >I&apos;m a Software Engineer. </h2>
-    <div className="About-content"><p>Currently, I&apos;m a student at  <span className="About-instit"> GIAIC</span> ,</p>
+    <div className="About1"><h2 >I&rsquo;m a Software Engineer. </h2>
+    <div className="About-content"><p>Currently, I&rsquo;m a student at  <span className="About-instit"> GIAIC</span> ,</p>
 
     </div >
     <div className="About-para">
