@@ -1,8 +1,6 @@
 
 "use-client"
 
-// import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-// import { face} from "@fortawesome/free-solid-svg-icons";
 
 import Link from "next/link"
 

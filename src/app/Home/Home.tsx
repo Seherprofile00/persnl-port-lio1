@@ -1,5 +1,5 @@
 
-import Link from "next/link";
+
 import Image from "next/image";
 import girl from "../public/girl.png"
 import arro1 from "../public/arro2.png"
